@@ -1,8 +1,8 @@
-const appInfo = {
-    title: "BANSHEE",
-    subtitle: "RAK NONG AOMM",
-    schoolName: "Nakhon pathom vocational college",
-    version: "26.0.0",
+const appinfo = {
+    title: "StudentCares",
+    subtitle: "Empowering students for a Brighter Future",
+    schoolName: "NVC",
+    verion: "1.0.0",
 };
 
-export default appInfo;
+export default appinfo;

@@ -7,9 +7,8 @@ const Header = (props) => {
     <View style={styles.header}>
       <Text style={styles.headerText}>{props.title}</Text>
       <Text style={styles.subHeaderText}>{props.subtitle}</Text>
-           <Text style={styles.subHeaderText}>{props.schoolName}</Text>
-                <Text style={styles.subHeaderText}>Version: {props.version}</Text>
-
+      <Text style={styles.subHeaderText}>{props.schoolName}</Text>
+      <Text style={styles.subHeaderText}>Version :{props.version}</Text>
     </View>
   )
 }
